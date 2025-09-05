@@ -89,15 +89,21 @@ flowchart TD
 
 ---
 
-## Developer Contact
+## 👨‍💻 **Developer Information**
 
-**Developer:** [SpicychieF05](https://github.com/SpicychieF05)
+### 🚀 **Built with ❤️ by Chirantan Mallick**
+- 🎓 **BCA 3rd Year Student** at Seacom Skills University
+- 💻 **Full Stack Developer** specializing in React & Modern Web Technologies
+- 🌟 **Open Source Enthusiast** passionate about education technology
 
-- 📧 Email: [mallickchirantan@gmail.com](https://linktr.ee/chirantan_mallick?lt_utm_source=lt_share_link#445304135)
-- 🧑🏻‍💼 LinkedIn: [Chirantan Mallick](https://www.linkedin.com/in/chirantan-mallick)
-- 🐦 X: [@Chirantan Mallick](https://x.com/Chirantan2965)
-- 💬 Telegram: [@Chirantan_Mallick](https://t.me/Chirantan_Mallick)
----
+### 📞 **Connect with Developer**
+[![GitHub](https://img.shields.io/badge/GitHub-spicychief05-black?style=for-the-badge&logo=github)](https://github.com/spicychief05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirantan_Mallick-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chirantan-mallick)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://rb.gy/uxjdk)
+[![Telegram](https://img.shields.io/badge/Telegram-@Chirantan_Mallick-blue?style=for-the-badge&logo=telegram)](https://t.me/Chirantan_Mallick)
+[![Email](https://img.shields.io/badge/Email-mallickchirantan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mallickchirantan@gmail.com)
+
+
 	 - The app extracts face features and saves them securely in:
 		 ```
 		 C:\Users\<your-username>\face_templates.dat
