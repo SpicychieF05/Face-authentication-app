@@ -97,17 +97,27 @@ flowchart TD
 - 🌟 **Open Source Enthusiast** passionate about education technology
 
 ### 📞 **Connect with Developer**
-[![GitHub](https://img.shields.io/badge/GitHub-spicychief05-black?style=for-the-badge&logo=github)](https://github.com/spicychief05)
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirantan_Mallick-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chirantan-mallick)
----
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://rb.gy/uxjdk)
----
-[![Telegram](https://img.shields.io/badge/Telegram-@Chirantan_Mallick-blue?style=for-the-badge&logo=telegram)](https://t.me/Chirantan_Mallick)
----
-[![X](https://img.shields.io/badge/X-@Chirantan2965-blue?style=for-the-badge&logo=x)](https://x.com/Chirantan2965)
----
-[![Email](https://img.shields.io/badge/Email-mallickchirantan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mallickchirantan@gmail.com)
+
+<p align="center">
+	<a href="https://github.com/spicychief05" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+	<a href="https://linkedin.com/in/chirantan-mallick" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+	<a href="https://rb.gy/uxjdk" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+	<a href="https://t.me/Chirantan_Mallick" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+	<a href="https://x.com/Chirantan2965" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x" alt="X" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+	<a href="mailto:mallickchirantan@gmail.com" style="margin: 0 8px;">
+		<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	</a>
+</p>
 
 
 	 - The app extracts face features and saves them securely in:
