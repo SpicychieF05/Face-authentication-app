@@ -94,9 +94,9 @@ flowchart TD
 **Developer:** [SpicychieF05](https://github.com/SpicychieF05)
 
 - 📧 Email: [mallickchirantan@gmail.com](https://linktr.ee/chirantan_mallick?lt_utm_source=lt_share_link#445304135)
+- 🧑🏻‍💼 LinkedIn: [Chirantan Mallick](https://www.linkedin.com/in/chirantan-mallick)
+- 🐦 X: [@Chirantan Mallick](https://x.com/Chirantan2965)
 - 💬 Telegram: [@Chirantan_Mallick](https://t.me/Chirantan_Mallick)
-- 🐦 Twitter: [@Chirantan Mallick](https://x.com/Chirantan2965)
-
 ---
 	 - The app extracts face features and saves them securely in:
 		 ```
