@@ -1,17 +1,65 @@
 
-# Face Authentication App
 
-A simple desktop application for face authentication using your webcam. Built with Python, OpenCV, and Tkinter. Designed for educational and personal use on Windows.
+<p align="center">
+	<img src="https://res.cloudinary.com/dlxybta5a/image/upload/v1757106882/limitless-banner_b5djgf.png" alt="LockLess Banner" width="100%" style="border-radius: 10px;"/>
+</p>
 
----
+<p align="center">
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://img.shields.io/github/forks/SpicychieF05/Face-authentication-app?style=social" alt="Forks">
+	</a>
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://img.shields.io/github/watchers/SpicychieF05/Face-authentication-app?style=social" alt="Watchers">
+	</a>
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=SpicychieF05.Face-authentication-app" alt="Viewers">
+	</a>
+</p>
+
+<p align="center">
+	<a href="#setup"><img src="https://img.shields.io/badge/Setup-Guide-blue?style=for-the-badge" alt="Setup Guide"></a>
+	<a href="#features"><img src="https://img.shields.io/badge/Features-List-green?style=for-the-badge" alt="Features"></a>
+	<a href="#system-architecture-diagram"><img src="https://img.shields.io/badge/Diagram-Architecture-orange?style=for-the-badge" alt="Diagram"></a>
+	<a href="#use-case-chart"><img src="https://img.shields.io/badge/Use%20Cases-Chart-yellow?style=for-the-badge" alt="Use Cases"></a>
+</p>
+
+# LockLess: Face Authentication App
+
+LockLess is a secure desktop application for face authentication using your webcam. Built with Python, OpenCV, and Tkinter, it is designed for privacy, simplicity, and robust local security on Windows.
+
 
 ## Features
 
-- **Guided Live Enrollment:** Capture 5 images with different poses and expressions (neutral, smile, turn left/right, glasses on/off) for robust recognition.
-- **Real-Time Authentication:** Uses your webcam to unlock the app by matching your live face to enrolled templates.
-- **No Cloud, No Uploads:** All data is stored locally and securely.
-- **Windows DPAPI Encryption:** Face templates are encrypted for privacy.
-- **Easy to Use GUI:** Simple interface for enrollment and authentication.
+
+---
+
+## System Architecture Diagram
+
+```mermaid
+flowchart TD
+	User[User] -->|Enrolls Face| GUI[LockLess GUI]
+	GUI -->|Captures Images| Webcam[Webcam]
+	GUI -->|Saves Encrypted Templates| Storage[Local Storage]
+	User -->|Authenticates| GUI
+	GUI -->|Live Face Capture| Webcam
+	GUI -->|Compares| Templates[Face Templates]
+	Templates -->|Unlock| App[App Access]
+```
+
+---
+
+## Use Case Chart
+
+| Use Case                | Description                                                      | User Benefit                |
+|-------------------------|------------------------------------------------------------------|-----------------------------|
+| Secure Login            | Unlock app with your face, no password needed                    | Fast, hands-free access     |
+| Local Data Protection   | All face data encrypted and stored locally                       | Privacy, no cloud risk      |
+| Multi-Pose Enrollment   | Robust recognition with varied poses and expressions             | Reliable authentication     |
+| Personal Device Unlock  | Use as a gatekeeper for sensitive files or apps                  | Extra layer of security     |
+| Educational Demo        | Learn about face recognition and encryption                      | Knowledge, experimentation  |
+| No Internet Required    | Works fully offline                                              | Usable anywhere             |
+
+---
 
 ---
 
@@ -38,11 +86,23 @@ A simple desktop application for face authentication using your webcam. Built wi
 		 3. Turn head left
 		 4. Turn head right
 		 5. Remove/Put on glasses if you have
+
+---
+
+## Developer Contact
+
+**Developer:** [SpicychieF05](https://github.com/SpicychieF05)
+
+- 📧 Email: [mallickchirantan@gmail.com](https://linktr.ee/chirantan_mallick?lt_utm_source=lt_share_link#445304135)
+- 💬 Telegram: [@Chirantan_Mallick](https://t.me/Chirantan_Mallick)
+- 🐦 Twitter: [@Chirantan Mallick](https://x.com/Chirantan2965)
+
+---
 	 - The app extracts face features and saves them securely in:
 		 ```
 		 C:\Users\<your-username>\face_templates.dat
 		 ```
-2. **Authentication:**
+1. **Authentication:**
 	 - After enrollment, the app uses your webcam to authenticate you in real time.
 	 - Recognition is robust to different conditions (lighting, pose, glasses).
 
