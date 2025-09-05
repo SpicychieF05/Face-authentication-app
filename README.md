@@ -98,9 +98,15 @@ flowchart TD
 
 ### 📞 **Connect with Developer**
 [![GitHub](https://img.shields.io/badge/GitHub-spicychief05-black?style=for-the-badge&logo=github)](https://github.com/spicychief05)
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirantan_Mallick-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chirantan-mallick)
+---
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://rb.gy/uxjdk)
+---
 [![Telegram](https://img.shields.io/badge/Telegram-@Chirantan_Mallick-blue?style=for-the-badge&logo=telegram)](https://t.me/Chirantan_Mallick)
+---
+[![X](https://img.shields.io/badge/X-@Chirantan2965-blue?style=for-the-badge&logo=x)](https://x.com/Chirantan2965)
+---
 [![Email](https://img.shields.io/badge/Email-mallickchirantan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mallickchirantan@gmail.com)
 
 
