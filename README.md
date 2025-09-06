@@ -1,16 +1,18 @@
+
+
 <p align="center">
 	<img src="https://res.cloudinary.com/dlxybta5a/image/upload/v1757106882/limitless-banner_b5djgf.png" alt="LockLess Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://img.shields.io/github/forks/SpicychieF05/FaceLess-authenticator?style=social" alt="Forks">
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://img.shields.io/github/forks/SpicychieF05/Face-authentication-app?style=social" alt="Forks">
 	</a>
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://img.shields.io/github/watchers/SpicychieF05/FaceLess-authenticator?style=social" alt="Watchers">
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://img.shields.io/github/watchers/SpicychieF05/Face-authentication-app?style=social" alt="Watchers">
 	</a>
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://visitor-badge.laobi.icu/badge?page_id=SpicychieF05.FaceLess-authenticator" alt="Viewers">
+	<a href="https://github.com/SpicychieF05/Face-authentication-app" target="_blank">
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=SpicychieF05.Face-authentication-app" alt="Viewers">
 	</a>
 </p>
 
@@ -28,46 +30,6 @@ LockLess is a secure desktop application for face authentication using your webc
 
 ## Features
 
-🔐 **Secure Face Authentication**
-- Real-time face recognition using advanced OpenCV algorithms
-- Multi-pose enrollment system for enhanced accuracy
-- Robust authentication across different lighting conditions and angles
-
-🛡️ **Privacy-First Security**
-- 100% offline operation - no internet connection required
-- Local data storage with Windows DPAPI encryption
-- Face templates stored securely, no actual images saved
-- Zero cloud dependency for complete privacy protection
-
-👤 **User-Friendly Interface**
-- Intuitive GUI built with Tkinter for easy navigation
-- Step-by-step enrollment process with clear instructions
-- Real-time feedback during authentication attempts
-- Simple setup with minimal user interaction required
-
-⚡ **Performance & Reliability**
-- Fast face detection and matching algorithms
-- Configurable tolerance levels for authentication accuracy
-- Liveness detection to prevent spoofing attempts
-- Multi-frame verification for reliable access control
-
-🔧 **Customizable Configuration**
-- Adjustable face matching threshold settings
-- Configurable number of required matches for unlock
-- Customizable time windows for liveness detection
-- Flexible enrollment process with multiple pose captures
-
-📚 **Educational Purpose**
-- Clean, well-documented codebase for learning
-- Demonstrates biometric authentication principles
-- Shows encryption and secure data storage practices
-- Perfect for computer vision and security education
-
-🖥️ **Windows Optimized**
-- Native Windows integration with DPAPI encryption
-- Optimized for Windows desktop environments
-- Compatible with most webcam hardware
-- Lightweight resource usage for smooth operation
 
 ---
 
