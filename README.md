@@ -99,23 +99,26 @@ flowchart TD
 ### 📞 **Connect with Developer**
 
 <p align="center">
-	<a href="https://github.com/spicychief05" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://discord.gg/EmRcW9rnGs">
+		<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord">
 	</a>
-	<a href="https://linkedin.com/in/chirantan-mallick" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://rb.gy/uxjdk">
+		<img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp">
 	</a>
-	<a href="https://rb.gy/uxjdk" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://www.facebook.com/Chirantan2965">
+		<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white" alt="Facebook">
 	</a>
-	<a href="https://t.me/Chirantan_Mallick" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://instagram.com/heres_chirantan">
+		<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" alt="Instagram">
 	</a>
-	<a href="https://x.com/Chirantan2965" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=x" alt="X" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://linkedin.com/in/chirantan-mallick">
+		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
-	<a href="mailto:mallickchirantan@gmail.com" style="margin: 0 8px;">
-		<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" alt="Gmail" style="box-shadow: 0 2px 8px #0002; border-radius: 5px;">
+	<a href="https://x.com/Chirantan2965">
+		<img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white" alt="X">
+	</a>
+	<a href="https://tr.ee/9Vp509xCxy">
+		<img src="https://img.shields.io/badge/Email-D14836.svg?style=plastic&logo=gmail&logoColor=white" alt="Email">
 	</a>
 </p>
 
