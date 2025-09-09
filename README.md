@@ -1,16 +1,17 @@
+
 <p align="center">
 	<img src="https://res.cloudinary.com/dlxybta5a/image/upload/v1757106882/limitless-banner_b5djgf.png" alt="LockLess Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://img.shields.io/github/forks/SpicychieF05/FaceLess-authenticator?style=social" alt="Forks">
+	<a href="https://github.com/SpicychieF05/LockLess-authenticator" target="_blank">
+		<img src="https://img.shields.io/github/forks/SpicychieF05/LockLess-authenticator?style=social" alt="Forks">
 	</a>
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://img.shields.io/github/watchers/SpicychieF05/FaceLess-authenticator?style=social" alt="Watchers">
+	<a href="https://github.com/SpicychieF05/LockLess-authenticator" target="_blank">
+		<img src="https://img.shields.io/github/watchers/SpicychieF05/LockLess-authenticator?style=social" alt="Watchers">
 	</a>
-	<a href="https://github.com/SpicychieF05/FaceLess-authenticator" target="_blank">
-		<img src="https://visitor-badge.laobi.icu/badge?page_id=SpicychieF05.FaceLess-authenticator" alt="Viewers">
+	<a href="https://github.com/SpicychieF05/LockLess-authenticator" target="_blank">
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=SpicychieF05.LockLess-authenticator" alt="Viewers">
 	</a>
 </p>
 
@@ -211,6 +212,25 @@ You can adjust these settings in `user_face_unlock.py`:
 - Pillow (image processing)
 - pywin32 (Windows DPAPI encryption)
 - tkinter (GUI, included with Python)
+
+---
+
+
+---
+
+
+## 📍 Roadmap & Project Vision
+
+See the dedicated [ROADMAP.md](./ROADMAP.md) file for a comprehensive, visual roadmap of the LockLess project.
+
+- **What you'll find:**
+	- Project overview and goals
+	- Current architecture (with emoji and diagrams)
+	- Timeline and future updates (including Windows Hello integration)
+	- ASCII and image-based infographics for easy understanding
+	- Community engagement and contribution guidelines
+
+The roadmap is designed to help contributors, users, and stakeholders understand the direction and vision for LockLess. For a visual summary, check the embedded roadmap image in `ROADMAP.md`.
 
 ---
 
