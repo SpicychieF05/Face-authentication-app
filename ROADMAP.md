@@ -126,7 +126,7 @@ FaceLess-authenticator is designed to be pragmatic and community-driven. The roa
 We welcome feedback, ideas, and code contributions — issues, PRs, and discussions are all encouraged.
 
 Contribute & follow:
-- GitHub Issues: https://github.com/SpicychieF05/Face-authentication-app/issues
+- GitHub Issues: https://github.com/SpicychieF05/LockLess-authenticator/issues
 - Pull Requests: Fork → Implement → PR
 
 --------------------------------------------------------------------------------
@@ -135,13 +135,15 @@ Thank you — let’s make on-device face authentication simple, secure, and acc
 
 ---
 
-## Visual Roadmap (inline)
+## Visual Roadmap
 
-If the ASCII infographic above isn't visually clear in your viewer, an inline SVG roadmap has been added to `assets/roadmap.svg`. Open it directly or view it in Markdown-capable viewers that support images.
+If the ASCII infographic above isn't visually clear, view the official roadmap image below:
 
-![Roadmap](assets/roadmap.svg)
+<p align="center">
+  <img src="https://res.cloudinary.com/dlxybta5a/image/upload/v1757418429/LockLess_roadmap_img_avsbki.jpg" alt="LockLess Roadmap" width="80%"/>
+</p>
 
 Tips:
-- On Windows, open `assets/roadmap.svg` with your browser (double-click) for full-resolution vector rendering.
-- If GitHub preview doesn't render the SVG, try opening it locally in Chrome/Edge.
+- For best quality, open the image in a browser tab.
+- If GitHub preview doesn't render the image, copy the link above and open it directly.
 
