@@ -133,3 +133,15 @@ Contribute & follow:
 
 Thank you — let’s make on-device face authentication simple, secure, and accessible. ✨
 
+---
+
+## Visual Roadmap (inline)
+
+If the ASCII infographic above isn't visually clear in your viewer, an inline SVG roadmap has been added to `assets/roadmap.svg`. Open it directly or view it in Markdown-capable viewers that support images.
+
+![Roadmap](assets/roadmap.svg)
+
+Tips:
+- On Windows, open `assets/roadmap.svg` with your browser (double-click) for full-resolution vector rendering.
+- If GitHub preview doesn't render the SVG, try opening it locally in Chrome/Edge.
+
